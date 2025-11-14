@@ -43,5 +43,11 @@ Ele foi projetado para ajudar pesquisadores e analistas a entenderem **como dife
 ---
 
 ## 👨‍💻 Autoria
-Desenvolvido com foco em **análise de mercado de trabalho e transformação digital das profissões**, aplicando técnicas simples de modelagem de tendência.
+
+| Nome                               | RM     |
+|------------------------------------|--------|
+| Marcos Paolucci Salamondac         | 554941 |
+| Sandron Oliveira Silva             | 557172 |
+| Nickolas Alexandre de Oliveira Ferraz | 558458 |
+
 
